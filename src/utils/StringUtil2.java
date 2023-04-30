@@ -7,4 +7,6 @@ public class StringUtil2 {
     //update the string util
     
     // i love java
+    
+    //i like git class
 }
